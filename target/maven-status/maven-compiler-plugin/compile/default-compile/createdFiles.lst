@@ -1,0 +1,8 @@
+org\sbpo2025\challenge\Challenge.class
+org\sbpo2025\challenge\ChallengeSolver$HeuristicState.class
+org\sbpo2025\challenge\ChallengeSolver$HeuristicSolver$HeuristicResult.class
+org\sbpo2025\challenge\ChallengeSolver.class
+org\sbpo2025\challenge\ChallengeSolver$OptimizationResult.class
+org\sbpo2025\challenge\ChallengeSolution.class
+org\sbpo2025\challenge\ChallengeSolver$HeuristicSolver.class
+org\sbpo2025\challenge\ChallengeSolver$PreprocessingResult.class

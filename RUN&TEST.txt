@@ -1,0 +1,49 @@
+
+cd /c/Users/ggazz/OneDrive/Desktop/DESAFIO_MERCADO_LIVRE/challenge-sbpo-2025
+
+mvn clean package
+
+
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0001.txt Resultados/solution1.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0002.txt Resultados/solution2.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0003.txt Resultados/solution3.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0004.txt Resultados/solution4.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0005.txt Resultados/solution5.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0006.txt Resultados/solution6.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0007.txt Resultados/solution7.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0008.txt Resultados/solution8.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0009.txt Resultados/solution9.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0010.txt Resultados/solution10.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0011.txt Resultados/solution11.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0012.txt Resultados/solution12.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0013.txt Resultados/solution13.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0014.txt Resultados/solution14.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0015.txt Resultados/solution15.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0016.txt Resultados/solution16.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0017.txt Resultados/solution17.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0018.txt Resultados/solution18.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0019.txt Resultados/solution19.txt
+java -jar target/ChallengeSBPO2025-1.0.jar datasets/a/Instance_0020.txt Resultados/solution20.txt
+
+python checker.py datasets/a/Instance_0001.txt Resultados/solution1.txt
+python checker.py datasets/a/Instance_0002.txt Resultados/solution2.txt
+python checker.py datasets/a/Instance_0003.txt Resultados/solution3.txt
+python checker.py datasets/a/Instance_0004.txt Resultados/solution4.txt
+python checker.py datasets/a/Instance_0005.txt Resultados/solution5.txt
+python checker.py datasets/a/Instance_0006.txt Resultados/solution6.txt
+python checker.py datasets/a/Instance_0007.txt Resultados/solution7.txt
+python checker.py datasets/a/Instance_0008.txt Resultados/solution8.txt
+python checker.py datasets/a/Instance_0009.txt Resultados/solution9.txt
+python checker.py datasets/a/Instance_0010.txt Resultados/solution10.txt
+python checker.py datasets/a/Instance_0011.txt Resultados/solution11.txt
+python checker.py datasets/a/Instance_0012.txt Resultados/solution12.txt
+python checker.py datasets/a/Instance_0013.txt Resultados/solution13.txt
+python checker.py datasets/a/Instance_0014.txt Resultados/solution14.txt
+python checker.py datasets/a/Instance_0015.txt Resultados/solution15.txt
+python checker.py datasets/a/Instance_0016.txt Resultados/solution16.txt
+python checker.py datasets/a/Instance_0017.txt Resultados/solution17.txt
+python checker.py datasets/a/Instance_0018.txt Resultados/solution18.txt
+python checker.py datasets/a/Instance_0019.txt Resultados/solution19.txt
+python checker.py datasets/a/Instance_0020.txt Resultados/solution20.txt
+
+
